@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - 🔭A passionate web developer 
--👯 Collaborating with other developers and designers 
--🌱 I’m currently learning advanced JavaScript and React.js.
--💬 Ask me about MERN,  HTML, CSS, JavaScript, Tailwind css and problem-solving.<br>
+- 👯 Collaborating with other developers and designers 
+- 🌱 I’m currently learning advanced JavaScript and React.js.
+- 💬 Ask me about MERN,  HTML, CSS, JavaScript, Tailwind css and problem-solving.<br>
 
 
 
