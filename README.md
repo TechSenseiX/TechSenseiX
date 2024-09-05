@@ -1,4 +1,4 @@
-## Hi there, I'm Rishita Rani👋
+## Hi there, I'm Rishita👋
 
 <!--
 **TechSenseiX/TechSenseiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
